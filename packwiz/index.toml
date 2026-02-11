@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MODLIST.md"
-hash = "c3a5684e1a8feb3d1a7152e2d1cdede7071f6b5896cc4407e5274cc2253b577d"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "6e60336942b6621aaaa3f5401a362d54ee7029895d66802010186d6f29232d82"
 
