@@ -78,8 +78,8 @@
 | Dynamic FPS | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
 | Eating Animations | [Modrinth](https://modrinth.com/mod/X8CISwXp) |
 | Ecliptic Seasons | [CurseForge](https://www.curseforge.com/projects/1118306) |
+| Ecliptic Seasons : Bundles | [CurseForge](https://www.curseforge.com/projects/1449802) |
 | Ecliptic Seasons: MultiMod Patch | [CurseForge](https://www.curseforge.com/projects/1316748) |
-| Ecliptic Seasons - Regions Unexplored | [CurseForge](https://www.curseforge.com/projects/1353228) |
 | Embeddium | [Modrinth](https://modrinth.com/mod/sk9rgfiA) |
 | EMI | [Modrinth](https://modrinth.com/mod/fRiHVvU7) |
 | EMI Ores | [Modrinth](https://modrinth.com/mod/sG4TqDb8) |
