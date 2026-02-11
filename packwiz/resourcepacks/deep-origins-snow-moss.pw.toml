@@ -1,0 +1,13 @@
+name = "Snow and moss overhangs - Deep Origins Overlays"
+filename = "§6[Beta]§8-§rDeep-origins-overlays_snow-moss§8_beta-v1-0b-1-20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DM2Xg3rX/versions/Ze4YzHkz/%C2%A76%5BBeta%5D%C2%A78-%C2%A7rDeep-origins-overlays_snow-moss%C2%A78_beta-v1-0b-1-20.zip"
+hash-format = "sha512"
+hash = "7ddd26265b1cbf525d3332e85c6991178cbb5369611b34f0f12138b88a67fa0a13b2500f0cc099e8a530a7364617cd4eba685e98111c81dd25b8a1243fcbf943"
+
+[update]
+[update.modrinth]
+mod-id = "DM2Xg3rX"
+version = "Ze4YzHkz"

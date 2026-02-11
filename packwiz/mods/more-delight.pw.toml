@@ -1,0 +1,13 @@
+name = "More Delight (for Farmer's Delight)"
+filename = "moredelight-25.07.28-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/ctSWYdlm/moredelight-25.07.28-1.20-forge.jar"
+hash-format = "sha512"
+hash = "5644a430017656531142e799a46e789079dc67556db1e68a2bd3cfc27102f69e23a85be7c98057045e842daa5b94d0d627d4c207beb8db24a559077a1d6f8e19"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "ctSWYdlm"

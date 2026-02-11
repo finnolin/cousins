@@ -1,0 +1,13 @@
+name = "Cousins"
+author = "fnnln"
+version = "0.0.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fdd0ac33047eb021210c929e0fe2146c52a2cb5bda395e321d7838e423da657d"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

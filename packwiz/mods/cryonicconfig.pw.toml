@@ -1,0 +1,13 @@
+name = "Cryonic Config"
+filename = "cryonicconfig-forge-1.0.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/QWk3wFbj/cryonicconfig-forge-1.0.0%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "e7292eb8ef797e950f4479a0c51c30706436e994f405aa1eddbeb173383813fc8922f44eb42eb39de587de848042115b522482d43a43c45f9bed9944e497a524"
+
+[update]
+[update.modrinth]
+mod-id = "oEhQIkOs"
+version = "QWk3wFbj"

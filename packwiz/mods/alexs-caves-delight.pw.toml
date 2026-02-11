@@ -1,0 +1,13 @@
+name = "Alex's Caves Delight"
+filename = "alexscavesdelight-1.0.27-final.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94ed216a12ee0c477801ac2153179380b8fe7246"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6602388
+project-id = 1035901

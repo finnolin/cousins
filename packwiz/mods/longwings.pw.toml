@@ -1,0 +1,13 @@
+name = "Longwings"
+filename = "Longwings-v0.9.4-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YXWD6pbz/versions/lhJwrd9o/Longwings-v0.9.4-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "e930b534cdd9c7277bbb5cc801931524adac04334fc2a185aea780c1af3f9bc33bd0fd612ba4c0032b1f2ce03ca4ddf1a0c99a9bf1c617f7866aadf3eb5dcf08"
+
+[update]
+[update.modrinth]
+mod-id = "YXWD6pbz"
+version = "lhJwrd9o"
