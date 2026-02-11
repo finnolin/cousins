@@ -24,7 +24,7 @@ for f in "$pack_dir"/mods/*.pw.toml; do
     echo "| $name | [Modrinth](https://modrinth.com/mod/$mod_id) |" >> "$output"
   elif grep -q '\[update\.curseforge\]' "$f"; then
     project_id=$(grep 'project-id' "$f" | awk '{print $3}')
-    echo "| $name | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/$project_id) |" >> "$output"
+    echo "| $name | [CurseForge](https://www.curseforge.com/projects/$project_id) |" >> "$output"
   else
     echo "| $name | - |" >> "$output"
   fi

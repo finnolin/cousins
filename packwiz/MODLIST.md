@@ -7,15 +7,15 @@
 | Ad-Astra: Giselle Addon | [Modrinth](https://modrinth.com/mod/XQDxCBVw) |
 | Adorable Hamster Pets | [Modrinth](https://modrinth.com/mod/LmrhZdK2) |
 | Applied Energistics 2 | [Modrinth](https://modrinth.com/mod/XxWD5pD3) |
-| Alex's Caves | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/924854) |
-| Alex's Caves Delight | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/1035901) |
+| Alex's Caves | [CurseForge](https://www.curseforge.com/projects/924854) |
+| Alex's Caves Delight | [CurseForge](https://www.curseforge.com/projects/1035901) |
 | Almost Unified | [Modrinth](https://modrinth.com/mod/sdaSaQEz) |
 | AmbientSounds | [Modrinth](https://modrinth.com/mod/fM515JnW) |
 | Amendments | [Modrinth](https://modrinth.com/mod/6iTJugQR) |
 | AppleSkin | [Modrinth](https://modrinth.com/mod/EsAfCjCV) |
 | Applied Mekanistics | [Modrinth](https://modrinth.com/mod/IiATswDj) |
-| Aquaculture 2 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/60028) |
-| Aquaculture Delight (A Farmer's Delight Add-on) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/961988) |
+| Aquaculture 2 | [CurseForge](https://www.curseforge.com/projects/60028) |
+| Aquaculture Delight (A Farmer's Delight Add-on) | [CurseForge](https://www.curseforge.com/projects/961988) |
 | Architectury API | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | Artifacts | [Modrinth](https://modrinth.com/mod/P0Mu4wcQ) |
 | Athena | [Modrinth](https://modrinth.com/mod/b1ZV3DIJ) |
@@ -23,7 +23,7 @@
 | BadOptimizations | [Modrinth](https://modrinth.com/mod/g96Z4WVZ) |
 | Balm | [Modrinth](https://modrinth.com/mod/MBAkmtvl) |
 | Better Advancements | [Modrinth](https://modrinth.com/mod/Q2OqKxDG) |
-| Better doors!! (Connecting doors open at the same time.) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/1189323) |
+| Better doors!! (Connecting doors open at the same time.) | [CurseForge](https://www.curseforge.com/projects/1189323) |
 | BetterF3 | [Modrinth](https://modrinth.com/mod/8shC1gFX) |
 | Bookshelf | [Modrinth](https://modrinth.com/mod/uy4Cnpcm) |
 | Botarium | [Modrinth](https://modrinth.com/mod/2u6LRnMa) |
@@ -41,7 +41,7 @@
 | Chimes | [Modrinth](https://modrinth.com/mod/mjGOuygR) |
 | Chipped | [Modrinth](https://modrinth.com/mod/BAscRYKm) |
 | Chunky | [Modrinth](https://modrinth.com/mod/fALzjamp) |
-| Citadel | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/331936) |
+| Citadel | [CurseForge](https://www.curseforge.com/projects/331936) |
 | Clean Tooltips | [Modrinth](https://modrinth.com/mod/vMoHe8uI) |
 | Client Sort | [Modrinth](https://modrinth.com/mod/K0AkAin6) |
 | Cloth Config API | [Modrinth](https://modrinth.com/mod/9s6osm5g) |
@@ -51,9 +51,9 @@
 | Colorful Hearts | [Modrinth](https://modrinth.com/mod/wQfMUdZT) |
 | Comfortable Campfires | [Modrinth](https://modrinth.com/mod/lOZBoyio) |
 | Comforts | [Modrinth](https://modrinth.com/mod/SaCpeal4) |
-| Compact Machines | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/224218) |
+| Compact Machines | [CurseForge](https://www.curseforge.com/projects/224218) |
 | Configuration | [Modrinth](https://modrinth.com/mod/3WjjSM5O) |
-| Configured | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/457570) |
+| Configured | [CurseForge](https://www.curseforge.com/projects/457570) |
 | Sinytra Connector | [Modrinth](https://modrinth.com/mod/u58R1TMW) |
 | Construction Wand | [Modrinth](https://modrinth.com/mod/bV2crgLh) |
 | Continuity | [Modrinth](https://modrinth.com/mod/1IjD5062) |
@@ -77,9 +77,9 @@
 | Dynamic Crosshair | [Modrinth](https://modrinth.com/mod/ZcR9weSm) |
 | Dynamic FPS | [Modrinth](https://modrinth.com/mod/LQ3K71Q1) |
 | Eating Animations | [Modrinth](https://modrinth.com/mod/X8CISwXp) |
-| Ecliptic Seasons | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/1118306) |
-| Ecliptic Seasons: MultiMod Patch | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/1316748) |
-| Ecliptic Seasons - Regions Unexplored | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/1353228) |
+| Ecliptic Seasons | [CurseForge](https://www.curseforge.com/projects/1118306) |
+| Ecliptic Seasons: MultiMod Patch | [CurseForge](https://www.curseforge.com/projects/1316748) |
+| Ecliptic Seasons - Regions Unexplored | [CurseForge](https://www.curseforge.com/projects/1353228) |
 | Embeddium | [Modrinth](https://modrinth.com/mod/sk9rgfiA) |
 | EMI | [Modrinth](https://modrinth.com/mod/fRiHVvU7) |
 | EMI Ores | [Modrinth](https://modrinth.com/mod/sG4TqDb8) |
@@ -93,13 +93,13 @@
 | ExtraSounds Next | [Modrinth](https://modrinth.com/mod/jv7tzVE4) |
 | Falling Leaves (NeoForge/Forge) | [Modrinth](https://modrinth.com/mod/2JAUNCL4) |
 | Farmer's Delight | [Modrinth](https://modrinth.com/mod/R2OftAxM) |
-| Fast Leaf Decay | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/230976) |
+| Fast Leaf Decay | [CurseForge](https://www.curseforge.com/projects/230976) |
 | Forgified Fabric API | [Modrinth](https://modrinth.com/mod/Aqlf1Shp) |
-| Framework | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/549225) |
+| Framework | [CurseForge](https://www.curseforge.com/projects/549225) |
 | Friends&Foes (Forge/NeoForge) | [Modrinth](https://modrinth.com/mod/BOCJKD49) |
 | Fzzy Config | [Modrinth](https://modrinth.com/mod/hYykXjDp) |
 | Geckolib | [Modrinth](https://modrinth.com/mod/8BmcQJ2H) |
-| GroovyModLoader (GML) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/661517) |
+| GroovyModLoader (GML) | [CurseForge](https://www.curseforge.com/projects/661517) |
 | GuideME | [Modrinth](https://modrinth.com/mod/Ck4E7v7R) |
 | Iceberg | [Modrinth](https://modrinth.com/mod/5faXoLqX) |
 | iChunUtil | [Modrinth](https://modrinth.com/mod/W6ROj0Hl) |
@@ -127,7 +127,7 @@
 | Mekanism: Ponders | [Modrinth](https://modrinth.com/mod/yriKr10n) |
 | Mekanism Tools | [Modrinth](https://modrinth.com/mod/tqQpq1lt) |
 | MidnightLib | [Modrinth](https://modrinth.com/mod/codAaoxh) |
-| Mighty Mail | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/902986) |
+| Mighty Mail | [CurseForge](https://www.curseforge.com/projects/902986) |
 | Cursors Extended | [Modrinth](https://modrinth.com/mod/o5fhgLeQ) |
 | Miner's Delight | [Modrinth](https://modrinth.com/mod/qMxbM4BQ) |
 | Monobank | [Modrinth](https://modrinth.com/mod/3bSjQuE3) |
