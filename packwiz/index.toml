@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "MODLIST.md"
+hash = "c3a5684e1a8feb3d1a7152e2d1cdede7071f6b5896cc4407e5274cc2253b577d"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "6e60336942b6621aaaa3f5401a362d54ee7029895d66802010186d6f29232d82"
 
@@ -444,13 +448,13 @@ hash = "d2af3fb86a7107c1ecbf0f0421520b54427aae06227756b9cde5d81a7db63f5c"
 metafile = true
 
 [[files]]
-file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
-hash = "5aee2bbed43759b03f044ffeb6a25b148c373e3570b4d5cca1fececaab0ddc7f"
+file = "mods/ecliptic-seasons-bundles.pw.toml"
+hash = "847b6d3b9ad5994e396e5b5ea18e649bc894547e8c575c5f4af0e0ffe950777c"
 metafile = true
 
 [[files]]
-file = "mods/ecliptic-seasons-regions-unexplored.pw.toml"
-hash = "fa17255843927694af1deefbf9a0be0fd9f56592ac59d53a245bd919316dd4df"
+file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
+hash = "5aee2bbed43759b03f044ffeb6a25b148c373e3570b4d5cca1fececaab0ddc7f"
 metafile = true
 
 [[files]]
