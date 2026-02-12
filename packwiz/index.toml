@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6e60336942b6621aaaa3f5401a362d54ee7029895d66802010186d6f29232d82"
+hash = "14c0e401f4e0cb3c951460bb75ac957a05c3119982066613d9b4dca20c860805"
 
 [[files]]
 file = "config/alexscaves-client.toml"
@@ -11,18 +11,6 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 [[files]]
 file = "config/eclipticseasons-common.toml"
 hash = "f4d80b98dac55735d6fa1b340d8e9eb272db850179ea3d0855badae13240d8b8"
-
-[[files]]
-file = "config/embeddium-fingerprint.json"
-hash = "3d0465f1a2c2d3fd8af8fa938c3f9615219e1a2f7eed121e9feaea290f867bf4"
-
-[[files]]
-file = "config/embeddium-mixins.properties"
-hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
-
-[[files]]
-file = "config/embeddium-options.json"
-hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
 
 [[files]]
 file = "config/invmove/cloth-config.json"
@@ -47,6 +35,10 @@ hash = "01fc08455fe14f6a795080b1f58121aef1331952e3760507886cd0095b5dcff1"
 [[files]]
 file = "config/invmove/vanilla.json"
 hash = "d1151ee0b7aa54a262ade99ba45014b32bf8774a90040f0b65c733d9ab9e2258"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "752c4671e4e16eac0931b5882b009c61760b62014637e973ba05132196257bc0"
 
 [[files]]
 file = "config/particlerain.json"

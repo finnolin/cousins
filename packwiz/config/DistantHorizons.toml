@@ -749,7 +749,7 @@ _version = 3
 			#
 			# If enabled, a chat message will be displayed when a potentially problematic 
 			# mod is installed alongside DH.
-			showModCompatibilityWarningsOnStartup = true
+			showModCompatibilityWarningsOnStartup = false
 			#
 			# If enabled, a message will be logged if the garbage 
 			# collector Java is currently using is known 
