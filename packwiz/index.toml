@@ -129,11 +129,6 @@ hash = "fb289df0188a1815096667ee5b4ab6242def986408f807d55b97cf3a19775098"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture-delight.pw.toml"
-hash = "624514fd57a5bad649068f8f2d6c45d88228249a266bd61b45cb749c42499766"
-metafile = true
-
-[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
 metafile = true
