@@ -916,6 +916,11 @@ hash = "c7c0bf52ed0a44e8e71403a92da8503e298dc961c57671ae933f707ec807004d"
 metafile = true
 
 [[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "e1c67611aa8ac579d7299e273cac8798b28927b9366ec799cc5133cced89d958"
+metafile = true
+
+[[files]]
 file = "mods/tetras-delight.pw.toml"
 hash = "252362fcc831cf6fcbb51d170e37f140fdbafe05c66bdf6e291ab520c100b7ea"
 metafile = true
