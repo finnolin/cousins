@@ -15,7 +15,6 @@
 | AppleSkin | [Modrinth](https://modrinth.com/mod/EsAfCjCV) |
 | Applied Mekanistics | [Modrinth](https://modrinth.com/mod/IiATswDj) |
 | Aquaculture 2 | [CurseForge](https://www.curseforge.com/projects/60028) |
-| Aquaculture Delight (A Farmer's Delight Add-on) | [CurseForge](https://www.curseforge.com/projects/961988) |
 | Architectury API | [Modrinth](https://modrinth.com/mod/lhGA9TYQ) |
 | Artifacts | [Modrinth](https://modrinth.com/mod/P0Mu4wcQ) |
 | Athena | [Modrinth](https://modrinth.com/mod/b1ZV3DIJ) |
@@ -171,6 +170,7 @@
 | Supplementaries | [Modrinth](https://modrinth.com/mod/fFEIiSDQ) |
 | TerraBlender | [Modrinth](https://modrinth.com/mod/kkmrDlKT) |
 | tetra | [Modrinth](https://modrinth.com/mod/YP9DjOvN) |
+| Tetranomicon | [CurseForge](https://www.curseforge.com/projects/445385) |
 | Tetra's Delight | [Modrinth](https://modrinth.com/mod/TVhC6ZPD) |
 | The Sound of Rain | [Modrinth](https://modrinth.com/mod/8GRDQ9XB) |
 | TrashSlot | [Modrinth](https://modrinth.com/mod/vRYk0bv7) |
