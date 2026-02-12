@@ -1,19 +1,40 @@
 ![Banner](/resources/latest/banner.jpg)
 
-# Cousins
-
 _A cosy modpack for chosen families._
 
-A private kitchen sink modpack for Forge, built for a small group of friends. You're welcome to use it too!
+| Modpack | Minecraft | Forge |
+| ------- | --------- | ----- |
+| 0.0.8: Current Currants | 1.20.1 | 47.4.10 |
 
-| Minecraft | Forge   |
-| --------- | ------- |
-| 1.20.1    | 47.4.10 |
+This is a kitchen sink pack, built for a small group of friends. You're welcome to use it too!
 
-Explore stunning worlds shaped by **Lithosphere** and enjoy breathtaking views with **Distant Horizons**.
+## Contents
+
+- [Features](#features)
+- [Mods](#mods)
+- [How to Install](#how-to-install)
+- [Troubleshooting](#troubleshooting)
+
+## Features
+
+### World Generation
+
+The world is shaped by **Lithosphere** for realistic terrain, combined with **WWOO** and **Regions Unexplored** for diverse biome generation.
+
+### Visuals
+
+**Distant Horizons** dramatically increases render distance, letting you take in the beautiful vistas from afar.
+
+We've included a custom fork of **Complementary Shaders** with improved compatibility for modded foliage.
 
 ![Screenshot World](/resources/latest/screenshot_world.jpg)
 ![Screenshot Shader](/resources/latest/screenshot_shader.jpg)
+
+## Mods
+
+All mods are sourced from CurseForge or Modrinth and are included in accordance with their respective licenses or with explicit permission.
+
+See [MODLIST.md](MODLIST.md) for the full list.
 
 ## How to Install
 
@@ -34,10 +55,10 @@ Explore stunning worlds shaped by **Lithosphere** and enjoy breathtaking views w
 
 The pack updates automatically every time you launch.
 
-### Troubleshooting
+## Troubleshooting
 
 **Mods don't download:**
 
-- Mods are automatically downloaded via the packwiz installer from either CurseForge or Modrinth. Sometimes the respective API fails or times out temporarily. In that case, please wait a few minutes and start the instance again.
+Mods are automatically downloaded via the packwiz installer from either CurseForge or Modrinth. Sometimes the respective API fails or times out temporarily. In that case, please wait a few minutes and start the instance again.
 
 If you have any other issues, feel free to [open an issue](https://github.com/finnolin/cousins/issues).
