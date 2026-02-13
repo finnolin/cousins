@@ -63,6 +63,7 @@
 | Create Crafts & Additions | [Modrinth](https://modrinth.com/mod/kU1G12Nn) |
 | Create: Diesel Generators | [Modrinth](https://modrinth.com/mod/ZM3tt6p1) |
 | Create: Sound of Steam | [Modrinth](https://modrinth.com/mod/yGttHo06) |
+| Create: Steam 'n' Rails | [Modrinth](https://modrinth.com/mod/ZzjhlDgM) |
 | Create: The Factory Must Grow | [Modrinth](https://modrinth.com/mod/USgVjXsk) |
 | CreativeCore | [Modrinth](https://modrinth.com/mod/OsZiaDHq) |
 | Creeper Overhaul | [Modrinth](https://modrinth.com/mod/MI1LWe93) |
@@ -92,6 +93,7 @@
 | ExtraSounds Next | [Modrinth](https://modrinth.com/mod/jv7tzVE4) |
 | Falling Leaves (NeoForge/Forge) | [Modrinth](https://modrinth.com/mod/2JAUNCL4) |
 | Farmer's Delight | [Modrinth](https://modrinth.com/mod/R2OftAxM) |
+| Fast IP Ping | [Modrinth](https://modrinth.com/mod/9mtu0sUO) |
 | Fast Leaf Decay | [CurseForge](https://www.curseforge.com/projects/230976) |
 | Forgified Fabric API | [Modrinth](https://modrinth.com/mod/Aqlf1Shp) |
 | Framework | [CurseForge](https://www.curseforge.com/projects/549225) |
