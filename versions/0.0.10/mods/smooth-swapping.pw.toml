@@ -1,0 +1,13 @@
+name = "Smooth Swapping"
+filename = "smoothswapping-0.9.3.2-1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ydZic5r4/versions/hGcfqVe2/smoothswapping-0.9.3.2-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "13d5e5528113bd7fc3510d6a6722de84b966d2f5589f4414ca11b85407ee68d3815fefbdfa79ed7f3341135062adde4fda07e53fa78306cc9c1102e3fef49446"
+
+[update]
+[update.modrinth]
+mod-id = "ydZic5r4"
+version = "hGcfqVe2"

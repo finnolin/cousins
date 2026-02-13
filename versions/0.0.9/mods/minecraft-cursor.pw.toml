@@ -1,0 +1,13 @@
+name = "Cursors Extended"
+filename = "minecraft-cursor-forge-3.11.2+1.20.1-patch.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/di2qjW4B/minecraft-cursor-forge-3.11.2%2B1.20.1-patch.1.jar"
+hash-format = "sha512"
+hash = "4e86a1a7a8e7c5470a1f2bb195696f671588fe843f85846aa8983632d633763f8a63e490c590e8a014e06e1c2b2027ddc689088638649094c6574329373baa79"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "di2qjW4B"

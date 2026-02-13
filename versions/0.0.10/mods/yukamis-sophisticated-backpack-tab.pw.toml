@@ -1,0 +1,13 @@
+name = "Yukami's Sophisticated Backpack Tab"
+filename = "yukamibackpacktab-1.20.1-1.1.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bibWUguy/versions/O2pdSxFg/yukamibackpacktab-1.20.1-1.1.1-forge.jar"
+hash-format = "sha512"
+hash = "5cb347a27cbc4f21eeaa964205e1390b2cef307f6954aa2d8e8deb9f503a71613e4fde689dcc76a465d9452d6c560341e536df2c768597c5390f66ca613d18ec"
+
+[update]
+[update.modrinth]
+mod-id = "bibWUguy"
+version = "O2pdSxFg"

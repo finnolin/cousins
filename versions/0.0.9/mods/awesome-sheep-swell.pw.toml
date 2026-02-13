@@ -1,0 +1,13 @@
+name = "Awesome Sheep Swell"
+filename = "AwesomeSheepSwell-forge-1.3.2+mc1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DXfVJLBA/versions/1Ivoj63R/AwesomeSheepSwell-forge-1.3.2%2Bmc1.20.4.jar"
+hash-format = "sha512"
+hash = "36a8a0f5e92c4dd83c6671a6ed0fca4d74366c1e6a00688b05d3ceac10e63f78e1e6ba98248a92d92133803d68fca4653bbcbc750e7b2267e9e52049206e315b"
+
+[update]
+[update.modrinth]
+mod-id = "DXfVJLBA"
+version = "1Ivoj63R"

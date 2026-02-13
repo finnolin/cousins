@@ -1,0 +1,13 @@
+name = "Sliding Doors"
+filename = "Slidingdoors 1.20.1 - v1.5 - Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A30xNWOT/versions/7RkOUXC9/Slidingdoors%201.20.1%20-%20v1.5%20-%20Forge.jar"
+hash-format = "sha512"
+hash = "f66a6ac4f7814d1b45c3a6159172e830d7e062f7805bde82991d8572023a64395a337128e60051f842aa1d1de91369e63991334677b803610f391524e3b193c9"
+
+[update]
+[update.modrinth]
+mod-id = "A30xNWOT"
+version = "7RkOUXC9"

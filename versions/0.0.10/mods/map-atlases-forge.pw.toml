@@ -1,0 +1,13 @@
+name = "Map Atlases [Forge]"
+filename = "map_atlases-1.20-6.0.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4hwXMFif/versions/iqp1xnrE/map_atlases-1.20-6.0.18.jar"
+hash-format = "sha512"
+hash = "e72a7168d718f17ee559fb936bd466682c5d3742374b81e6b8105532de45079d2b4a8ad6daccaf38210976776855e973375ec2d4fe2f77488da4634b1efe968a"
+
+[update]
+[update.modrinth]
+mod-id = "4hwXMFif"
+version = "iqp1xnrE"

@@ -1,0 +1,8 @@
+name = "EasyOnTheEyes"
+filename = "EasyOnTheEyes.zip"
+side = "both"
+
+[download]
+url = "https://github.com/finnolin/EasyOnTheEyes/releases/download/v1.0.0/EasyOnTheEyes.zip"
+hash-format = "sha256"
+hash = "70e3e5d17ab2853660375294d41e80868e9d2aafe4c5876a77d94bc9099eafc7"

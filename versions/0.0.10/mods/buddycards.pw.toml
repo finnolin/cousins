@@ -1,0 +1,13 @@
+name = "Buddycards"
+filename = "Buddycards-1.20.1-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGGjHC5t/versions/wNzODmQl/Buddycards-1.20.1-4.1.0.jar"
+hash-format = "sha512"
+hash = "bdcf911e07a13e690cd0bf29c7570d99c64187c5ad7eec2ffac14e2b160ec9a1626875b6a1de75da00fa9666c2c2166ea47dc8a049bfba993a429259389cea47"
+
+[update]
+[update.modrinth]
+mod-id = "GGGjHC5t"
+version = "wNzODmQl"

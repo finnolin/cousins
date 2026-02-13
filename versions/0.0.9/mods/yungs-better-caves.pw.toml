@@ -1,0 +1,13 @@
+name = "YUNG's Better Caves"
+filename = "YungsBetterCaves-1.20.1-Forge-2.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dfu00ggU/versions/13ttHRPR/YungsBetterCaves-1.20.1-Forge-2.0.5.jar"
+hash-format = "sha512"
+hash = "e211aff143a238d78765a3b6bcd988bcd1eb5918221994927a64285d3bb9c49bbe10c14bcce2afa212f07e83b57013fddb578d739e3fe27f1f3a43f6314ff494"
+
+[update]
+[update.modrinth]
+mod-id = "Dfu00ggU"
+version = "13ttHRPR"

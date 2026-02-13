@@ -1,0 +1,13 @@
+name = "Deep Origins Overlays"
+filename = "Deep-origins-overlays§8_1-3_1-17_1-21-9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tOCRtfAR/versions/Lf0UpcnU/Deep-origins-overlays%C2%A78_1-3_1-17_1-21-9.zip"
+hash-format = "sha512"
+hash = "2e0b8913e60dff514072ed014573d6e77238c1f9bbdee5525427eb7cc9bb80631f8ae45767dd08cfee25ad0b1ab8eae963a4149b5eb380c507e29e92a5f41db8"
+
+[update]
+[update.modrinth]
+mod-id = "tOCRtfAR"
+version = "Lf0UpcnU"
