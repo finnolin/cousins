@@ -1,6 +1,6 @@
 name = "Mekanism: Ponders"
 filename = "mekanism_ponders-1.0.1-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yriKr10n/versions/rKhmVobe/mekanism_ponders-1.0.1-1.20.1.jar"
