@@ -2,13 +2,13 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main, next]
-    tags: ["v*"]
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
       pages: write
       id-token: write
+      contents: write # needed to create tags
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -19,21 +19,29 @@ jobs:
           ref: main
           fetch-depth: 0
           path: repo
+
+      - name: Auto-tag from pack.toml version
+        if: github.ref == 'refs/heads/main'
+        run: |
+          cd repo
+          VERSION=$(grep '^version' packwiz/pack.toml | sed 's/version = "\(.*\)"/\1/')
+          if [ -n "$VERSION" ] && ! git tag | grep -q "^$VERSION$"; then
+            git tag -a "$VERSION" -m "Release $VERSION"
+            git push origin "$VERSION"
+          fi
+
       - name: Build site structure
         run: |
           mkdir -p _site/versions
 
-          # Main branch /packwiz becomes root
           cp -r repo/packwiz/* _site/
 
-          # Add next branch
           cd repo
           git worktree add ../next-temp next || echo "No 'next' branch found"
           if [ -d ../next-temp/packwiz ]; then
-            cp -r ../next-temp/packwiz ../\_site/next
+            cp -r ../next-temp/packwiz ../_site/next
           fi
 
-          # Add all version tags
           for tag in $(git tag | grep '^v'); do
             git worktree add "../tag-temp" "$tag"
             if [ -d ../tag-temp/packwiz ]; then
@@ -41,11 +49,14 @@ jobs:
             fi
             rm -rf ../tag-temp
           done
+
       - name: Clean up git files
         run: |
           find _site -name ".git" -type f -delete
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+
       - id: deployment
         uses: actions/deploy-pages@v4
