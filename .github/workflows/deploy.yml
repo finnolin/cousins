@@ -3,7 +3,6 @@ on:
   push:
     branches: [main, next]
     tags: ["v*"]
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -20,31 +19,33 @@ jobs:
           ref: main
           fetch-depth: 0
           path: repo
-
       - name: Build site structure
         run: |
           mkdir -p _site/versions
 
-          # Main branch becomes root
-          cp -r repo/* _site/
-          rm -rf _site/.git
+          # Main branch /latest becomes root
+          cp -r repo/latest/* _site/
 
           # Add next branch
           cd repo
-          git worktree add ../_site/next next || echo "No 'next' branch found"
+          git worktree add ../next-temp next || echo "No 'next' branch found"
+          if [ -d ../next-temp/latest ]; then
+            cp -r ../next-temp/latest ../\_site/next
+          fi
 
           # Add all version tags
           for tag in $(git tag | grep '^v'); do
-            git worktree add "../_site/versions/$tag" "$tag"
+            git worktree add "../tag-temp" "$tag"
+            if [ -d ../tag-temp/latest ]; then
+              cp -r ../tag-temp/latest "../_site/versions/$tag"
+            fi
+            rm -rf ../tag-temp
           done
-
       - name: Clean up git files
         run: |
           find _site -name ".git" -type f -delete
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
-
       - id: deployment
         uses: actions/deploy-pages@v4
