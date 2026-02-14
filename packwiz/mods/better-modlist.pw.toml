@@ -1,0 +1,13 @@
+name = "Better ModList"
+filename = "Better_Modlist-0.1.15-all.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbpqhzIG/versions/LhqllPrs/Better_Modlist-0.1.15-all.jar"
+hash-format = "sha512"
+hash = "00ba1c33355c8c6202281ce5b1670757837f0dc5bf156e26c5d43e37fa577b1c16d73a8c8f3c88400403e8b21206e0a176923c87c88aa1f4360c6b2bf17f2f8e"
+
+[update]
+[update.modrinth]
+mod-id = "sbpqhzIG"
+version = "LhqllPrs"
