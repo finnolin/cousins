@@ -1,7 +1,9 @@
 name: Deploy to GitHub Pages
 on:
   push:
-    branches: [main]
+    branches: [main, next]
+    tags: ["v*"]
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,13 +14,33 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout main (latest)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          path: repo
 
-      - name: Prepare deployment structure
+      - name: Build site structure
         run: |
-          mkdir -p _site
-          cp -r ./latest/* _site/
-          cp -r ./versions _site/versions
+          mkdir -p _site/versions
+
+          # Main branch becomes root
+          cp -r repo/* _site/
+          rm -rf _site/.git
+
+          # Add next branch
+          cd repo
+          git worktree add ../_site/next next || echo "No 'next' branch found"
+
+          # Add all version tags
+          for tag in $(git tag | grep '^v'); do
+            git worktree add "../_site/versions/$tag" "$tag"
+          done
+
+      - name: Clean up git files
+        run: |
+          find _site -name ".git" -type f -delete
 
       - uses: actions/upload-pages-artifact@v3
         with:
