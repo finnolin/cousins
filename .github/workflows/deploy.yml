@@ -23,21 +23,21 @@ jobs:
         run: |
           mkdir -p _site/versions
 
-          # Main branch /latest becomes root
-          cp -r repo/latest/* _site/
+          # Main branch /packwiz becomes root
+          cp -r repo/packwiz/* _site/
 
           # Add next branch
           cd repo
           git worktree add ../next-temp next || echo "No 'next' branch found"
-          if [ -d ../next-temp/latest ]; then
-            cp -r ../next-temp/latest ../\_site/next
+          if [ -d ../next-temp/packwiz ]; then
+            cp -r ../next-temp/packwiz ../\_site/next
           fi
 
           # Add all version tags
           for tag in $(git tag | grep '^v'); do
             git worktree add "../tag-temp" "$tag"
-            if [ -d ../tag-temp/latest ]; then
-              cp -r ../tag-temp/latest "../_site/versions/$tag"
+            if [ -d ../tag-temp/packwiz ]; then
+              cp -r ../tag-temp/packwiz "../_site/versions/$tag"
             fi
             rm -rf ../tag-temp
           done
