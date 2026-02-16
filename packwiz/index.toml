@@ -719,6 +719,11 @@ hash = "4060d5afd849f988fab9dd602998144180149f547f6f5052ab7f12538f84d49c"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "629d49405efdb00cd4927b9745652492bc90d5af6c7d3ab37e91f1192946de0e"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-covers.pw.toml"
 hash = "c449074fffc45f50b0e7735f6117516a554ca012193ccc6fcbada07579d18b45"
 metafile = true
