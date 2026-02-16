@@ -2,9 +2,9 @@
 
 _A cosy modpack for chosen families._
 
-| Modpack                 | Minecraft | Forge   |
-| ----------------------- | --------- | ------- |
-| 0.0.9: Current Currants | 1.20.1    | 47.4.10 |
+| Modpack                  | Minecraft | Forge   |
+| ------------------------ | --------- | ------- |
+| 0.0.11: Current Currants | 1.20.1    | 47.4.10 |
 
 This is a kitchen sink pack, built for a small group of friends. You're welcome to use it too!
 
