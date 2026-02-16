@@ -19,47 +19,40 @@ jobs:
           ref: main
           fetch-depth: 0
           path: repo
-
       - name: Auto-tag from pack.toml version
         if: github.ref == 'refs/heads/main'
         run: |
           cd repo
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           VERSION=$(grep '^version' packwiz/pack.toml | sed 's/version = "\(.*\)"/\1/')
           if [ -n "$VERSION" ] && ! git tag | grep -q "^$VERSION$"; then
             git tag -a "$VERSION" -m "Release $VERSION"
             git push origin "$VERSION"
           fi
-
       - name: Build site structure
         run: |
           mkdir -p _site/versions
-
           cp -r repo/packwiz/* _site/
-
           cd repo
+
           git worktree add ../next-temp next || echo "No 'next' branch found"
           if [ -d ../next-temp/packwiz ]; then
             cp -r ../next-temp/packwiz ../_site/next
           fi
 
           for tag in $(git tag | grep '^v'); do
-            git worktree add "../tag-temp" "$tag"
-            if [ -d ../tag-temp/packwiz ]; then
-              cp -r ../tag-temp/packwiz "../_site/versions/$tag"
+            git worktree add -f "../tag-temp-$tag" "$tag"
+            if [ -d "../tag-temp-$tag/packwiz" ]; then
+              cp -r "../tag-temp-$tag/packwiz" "../_site/versions/$tag"
             fi
-            rm -rf ../tag-temp
+            git worktree remove "../tag-temp-$tag" --force
           done
-
       - name: Clean up git files
         run: |
           find _site -name ".git" -type f -delete
-
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
-
       - id: deployment
         uses: actions/deploy-pages@v4
