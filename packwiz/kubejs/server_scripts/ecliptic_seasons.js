@@ -1,0 +1,48 @@
+ServerEvents.tags("item", (event) => {
+  // Heat protective helmets
+  event.add("eclipticseasons:heat_protective_helmets", [
+    "artifacts:plastic_drinking_hat",
+    "artifacts:novelty_drinking_hat",
+    "artifacts:villager_hat",
+    "artifacts:superstitious_hat",
+    "artifacts:cowboy_hat",
+    "artifacts:anglers_hat",
+    "irons_spellbooks:pumpkin_helmet",
+    "irons_spellbooks:pyromancer_helmet",
+    "irons_spellbooks:electromancer_helmet",
+    "irons_spellbooks:archevoker_helmet",
+    "irons_spellbooks:netherite_mage_helmet",
+    "irons_spellbooks:wizard_hat",
+    "irons_spellbooks:wizard_helmet",
+    "irons_spellbooks:cultist_helmet",
+    "irons_spellbooks:cryomancer_helmet",
+    "irons_spellbooks:shadowwalker_helmet",
+    "irons_spellbooks:wandering_magician_helmet",
+    "create:cardboard_helmet",
+    "create:conductor_cap",
+    "create:white_conductor_cap",
+    "create:orange_conductor_cap",
+    "create:magenta_conductor_cap",
+    "create:light_blue_conductor_cap",
+    "create:yellow_conductor_cap",
+    "create:lime_conductor_cap",
+    "create:pink_conductor_cap",
+    "create:gray_conductor_cap",
+    "create:light_gray_conductor_cap",
+    "create:cyan_conductor_cap",
+    "create:purple_conductor_cap",
+    "create:blue_conductor_cap",
+    "create:brown_conductor_cap",
+    "create:green_conductor_cap",
+    "create:red_conductor_cap",
+    "create:black_conductor_cap",
+    "ad_astra:space_helmet",
+    "ad_astra:netherite_space_helmet",
+    "ad_astra:jet_suit_helmet",
+    "minecraft:leather_helmet",
+    "minecraft:turtle_helmet",
+  ]);
+
+  // Add more tags here later, e.g.:
+  // event.add('eclipticseasons:cooling_items', ['somemod:cool_item'])
+});
