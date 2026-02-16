@@ -76,8 +76,12 @@ hash = "3d9ba6e80792d07fbbe28761380a118ff0af108650f05a7ac257a85086f3a58f"
 preserve = true
 
 [[files]]
+file = "kubejs/server_scripts/bookshelf_books.js"
+hash = "89b15c035b60e3eeae053d0120e21480fb46b405e9b2ff31126fd18ff5ccc229"
+
+[[files]]
 file = "kubejs/server_scripts/ecliptic_seasons.js"
-hash = "e3dd69671b6f326fc4e9cbb697a942b0ddfce5ef67e406d7be2c1fa34142a972"
+hash = "bea283b159d90f93f1d733c26e29c75dff5ea612087851a2d09f1beab97521d7"
 
 [[files]]
 file = "mods/accessories.pw.toml"

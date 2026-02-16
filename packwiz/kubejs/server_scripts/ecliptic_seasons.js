@@ -1,5 +1,4 @@
 ServerEvents.tags("item", (event) => {
-  // Heat protective helmets
   event.add("eclipticseasons:heat_protective_helmets", [
     "artifacts:plastic_drinking_hat",
     "artifacts:novelty_drinking_hat",
@@ -19,30 +18,18 @@ ServerEvents.tags("item", (event) => {
     "irons_spellbooks:shadowwalker_helmet",
     "irons_spellbooks:wandering_magician_helmet",
     "create:cardboard_helmet",
-    "create:conductor_cap",
-    "create:white_conductor_cap",
-    "create:orange_conductor_cap",
-    "create:magenta_conductor_cap",
-    "create:light_blue_conductor_cap",
-    "create:yellow_conductor_cap",
-    "create:lime_conductor_cap",
-    "create:pink_conductor_cap",
-    "create:gray_conductor_cap",
-    "create:light_gray_conductor_cap",
-    "create:cyan_conductor_cap",
-    "create:purple_conductor_cap",
-    "create:blue_conductor_cap",
-    "create:brown_conductor_cap",
-    "create:green_conductor_cap",
-    "create:red_conductor_cap",
-    "create:black_conductor_cap",
+    "#railways:conductor_caps",
     "ad_astra:space_helmet",
     "ad_astra:netherite_space_helmet",
     "ad_astra:jet_suit_helmet",
     "minecraft:leather_helmet",
     "minecraft:turtle_helmet",
   ]);
+});
 
-  // Add more tags here later, e.g.:
-  // event.add('eclipticseasons:cooling_items', ['somemod:cool_item'])
+ItemEvents.tooltip((event) => {
+  event.add(
+    "eclipticseasons:heat_protective_helmets",
+    Text.gold("Protects from heat stroke"),
+  );
 });
