@@ -374,8 +374,8 @@ hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
 metafile = true
 
 [[files]]
-file = "mods/create-diesel-generators.pw.toml"
-hash = "6539be34ce1c1142910690b42dd243672ca0a2d64a2e15b70ad5a863e0ec06ee"
+file = "mods/create-railways-navigator.pw.toml"
+hash = "345cbc7e5b4b2d14a1120720981248be696d28bc6a0bc23c54f1e11299d85594"
 metafile = true
 
 [[files]]
@@ -446,6 +446,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
+metafile = true
+
+[[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "90e226d5fc0df3ba13431c66dd5fe320ca320eafd386d8545a98d5f9b30609ee"
 metafile = true
 
 [[files]]
