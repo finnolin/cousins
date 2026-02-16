@@ -68,7 +68,7 @@
 	#Prevents physical snow from melting in naturally snowy biomes, even during hot seasons.
 	SnowKeepInSnowyBiomes = true
 	#Apply a 'Heatstroke' status effect if players stay in hot biomes during Summer noon.
-	HeatStroke = false
+	HeatStroke = true
 
 [Crop]
 	#Restrict plant growth based on their compatible seasons or humidity.
