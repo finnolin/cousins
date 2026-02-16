@@ -1,0 +1,13 @@
+name = "Midnight Thoughts"
+filename = "mthoughts-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rZVE31wM/versions/RmKHyoaW/mthoughts-1.2.1.jar"
+hash-format = "sha512"
+hash = "2d8340ab0fc5a42811f219e881a07d58014859b071478b6d56d0e3fb310be27d994f16b0c6af90a0789a16ac49a818c1b64212478a3ef6cd36041227c879ce88"
+
+[update]
+[update.modrinth]
+mod-id = "rZVE31wM"
+version = "RmKHyoaW"

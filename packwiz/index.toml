@@ -77,7 +77,7 @@ preserve = true
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "8e389c14f0d9be5bfeae80f243a6b460fcceb78a343644443a76a922f9e18618"
+hash = "27f73a0c650cb199cb1dfef5c4c4e47cd7713175967d152c9298bf69686f27c0"
 
 [[files]]
 file = "kubejs/server_scripts/bookshelf_books.js"
@@ -760,6 +760,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/midnight-thoughts.pw.toml"
+hash = "02f54a0c28a67847ee7f8bac67fe3d070025cda331e15cd8d0bd709a1dea59d0"
 metafile = true
 
 [[files]]
