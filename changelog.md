@@ -11,6 +11,7 @@
   - Add Chiseled Bookshelf functionality for several guidebooks and other items
   - Add heat stroke resistance to several helmet items
   - Adjusted Mekanism recipes for harder progression
+- Add Midnight Thoughts
 
 ---
 
