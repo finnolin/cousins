@@ -77,7 +77,7 @@ preserve = true
 
 [[files]]
 file = "kubejs/server_scripts/ecliptic_seasons.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "e3dd69671b6f326fc4e9cbb697a942b0ddfce5ef67e406d7be2c1fa34142a972"
 
 [[files]]
 file = "mods/accessories.pw.toml"
