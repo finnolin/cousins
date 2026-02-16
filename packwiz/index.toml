@@ -11,6 +11,10 @@ hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
 preserve = true
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "c9e4931f3a3d7de24e01997d4e0e4daa7386039895bd7398e917219116f6dd4e"
+
+[[files]]
 file = "config/eclipticseasons-common.toml"
 hash = "f4d80b98dac55735d6fa1b340d8e9eb272db850179ea3d0855badae13240d8b8"
 preserve = true
@@ -375,11 +379,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
-metafile = true
-
-[[files]]
-file = "mods/create-metalwork.pw.toml"
-hash = "b01040c5cef91d40b7bc98429dd07d61d788d638024311a22671b8dd1f8faf6e"
 metafile = true
 
 [[files]]
