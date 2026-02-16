@@ -93,7 +93,7 @@ hash = "de61367f88a24b7145e2a55245c070679812513d3f1e4639acee91b429161dd8"
 
 [[files]]
 file = "kubejs/server_scripts/tfmg_compat.js"
-hash = "ffaf86ec2b1e6133978b7ef28fba83e6c40cc7f1e80537e873d9aec38ecefe4c"
+hash = "15d20df34874a8028a9f9c42267e4f842b360c45b82e8afa9af2d5e684438733"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "11e8f7c2a2214f3133188ca8d045c9171eca8988fbae8a13572e56129b8b9910"
+hash = "f23e7c2660c3b174b83e3037d8b23a76bf8b8afac58ca5624682ad269c8fd64a"
 metafile = true
 
 [[files]]
