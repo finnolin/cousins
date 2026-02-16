@@ -780,11 +780,6 @@ hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
-file = "mods/midnight-thoughts.pw.toml"
-hash = "c5541e642042cf8275a0b866f893d2283556ed2810576112e2b12c15875c1d1a"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
