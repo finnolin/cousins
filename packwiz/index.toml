@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorable-hamster-pets.pw.toml"
-hash = "10831772639c84c80f459f36caf6cf6a83131548c472f75ed856776059d51d66"
+hash = "c98e13164beff03cce718dc5caa8b5814bdf3cb332e3d848532c7f6e943a73fe"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+hash = "ba71bdea2bb0e65eb53646a70e710a23bd711743aba3bc8ba1f2e1034f1cbc50"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "b2fbae78c2917916f54849f3e96bbadcd9107ee1a3a739d2f55a2c85cf37f6ee"
+hash = "fefc688dc7e47717884f248df1663e63df66e78a5c502f8d09eea3d3d1d93ed4"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
 metafile = true
 
 [[files]]
@@ -375,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
+metafile = true
+
+[[files]]
+file = "mods/create-metalwork.pw.toml"
+hash = "b01040c5cef91d40b7bc98429dd07d61d788d638024311a22671b8dd1f8faf6e"
 metafile = true
 
 [[files]]
@@ -405,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
+file = "mods/createnuclear.pw.toml"
+hash = "eaf87b925d774592d481b9a6660f140350c77a5b09a893a0cee3668d2f5cbbf6"
 metafile = true
 
 [[files]]
@@ -484,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
-hash = "6df70d79e9a9361a50f8d50d1297a4ca5ce6abd17d70836380d8a3830839cb18"
+hash = "a6492f30721422d1138fcb9affaa3ea07b6a7d71b9a7d26c94db99278a148134"
 metafile = true
 
 [[files]]
@@ -509,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "78370ae52e87fdd72c5a988bed40674d1a7a9bc8a7d69e899f6a4fa91901925d"
+hash = "60c712cc541a109ebef9675bb441ef20d79eeee8b0395ee28e5e15cce2947223"
 metafile = true
 
 [[files]]
@@ -534,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+hash = "0f1184e5efd9cc42f822645808dd04165f304fb5f31d772b99e377486e4764e9"
 metafile = true
 
 [[files]]
@@ -704,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "f23e7c2660c3b174b83e3037d8b23a76bf8b8afac58ca5624682ad269c8fd64a"
+hash = "11e8f7c2a2214f3133188ca8d045c9171eca8988fbae8a13572e56129b8b9910"
 metafile = true
 
 [[files]]
@@ -714,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "e4f414ece2ec81f6dd2dfb8c0176670a576b988f60c8b45a1f4b749b4d008c9d"
+hash = "4284966610d17ac7b865da1fad6738b9e24704e817a6cc6650d423db285e6e5a"
 metafile = true
 
 [[files]]
@@ -745,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism-ponders.pw.toml"
 hash = "25b2408a33be429872c990bc18f59e0717742ba5afcbdba2e82dbce7f5a230ad"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tfmg-compat.pw.toml"
+hash = "a65eb9231a6600f60c105f173fd365a581e1eeae45df73ed4d695564bd4f507b"
 metafile = true
 
 [[files]]
@@ -934,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b97a311aeaf633716450ac7ac644d8cdbc4b9731840ad1a08f9957a80de586e1"
+hash = "2693e3b2afc35f5edac9bc961a3cb1ccfa60bf32c69f2ddcc4860e7fe8799096"
 metafile = true
 
 [[files]]
@@ -949,12 +964,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "1d2b910e56a0abafd1230b076b519d48277e42d567ae82fac7ab2cfba37f4556"
+hash = "336d49c12e70e4e80e6b85d1a733407a23dd3b977813cffd77eaa9c84f4e7941"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2462cbdca19b14aee41ee417c6e673e47724d96cedb88001395d67b76f523815"
+hash = "67fd80a0fce2e29a586ddeb7e2d2c360f107005c4406efd500f829a35fcc53c7"
 metafile = true
 
 [[files]]
@@ -973,13 +988,18 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "e9a34b571a46d23747d49768e070fa0b4e8b8f05c3cb3a39da66e127bba78ef2"
 metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "72a047a90d2c34d94252fc44fe9bb5a3b7306f86242e5f31c104f21d609e4d44"
+hash = "c6cb9d1a082aea4b243aba633dd4365ff8405e5a74cd65473aa695d6bb6e2cd9"
 metafile = true
 
 [[files]]
