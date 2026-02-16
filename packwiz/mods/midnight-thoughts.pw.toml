@@ -1,6 +1,6 @@
 name = "Midnight Thoughts"
 filename = "mthoughts-1.2.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rZVE31wM/versions/RmKHyoaW/mthoughts-1.2.1.jar"
