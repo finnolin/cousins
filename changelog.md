@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.0.12
+
+- Pin Lithosphere to version 1.6
+
+- Add Carry On
+- Add FramedBlocks
+
+---
+
 ## v0.0.11
 
 - Add Splice of Life Onion

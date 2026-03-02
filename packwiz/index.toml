@@ -240,6 +240,11 @@ hash = "40e8391f4bb6f6922ce3a5c312d60930ca7bf69ea9ccbe915b23215dd9f19b10"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "8cecef107bc478f399553ef1b20882dcf89ad3dc0aadfef6c4a554ed5b015b9d"
 metafile = true
@@ -605,6 +610,11 @@ hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
 metafile = true
@@ -716,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithosphere.pw.toml"
-hash = "f23e7c2660c3b174b83e3037d8b23a76bf8b8afac58ca5624682ad269c8fd64a"
+hash = "ab1019e5ca4622a1405eb82e0574a880562bfec399c190dc03f90d84a023d1b1"
 metafile = true
 
 [[files]]

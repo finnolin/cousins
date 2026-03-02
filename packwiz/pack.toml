@@ -1,12 +1,12 @@
 name = "Cousins"
 author = "fnnln"
-version = "v0.0.11"
+version = "v0.0.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7c01d6cd684cd32098d67fe04d109666e31cf27a81b0e96809e9f9040b9008d0"
+hash = "71293303e0e4012f865cbabf30dd8f639d7854da9b31c46bf07b7e864de12c5c"
 
 [versions]
 forge = "47.4.10"
