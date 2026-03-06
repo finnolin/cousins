@@ -380,6 +380,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "d89b1d59b9865cad867c71bbd2bc749b66fe49c307a23e77020b73b3d65b65f1"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
 metafile = true
@@ -387,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "b76545662ec39beac21abf435bc3c8e141b0c743b92e8bbf7a2e61d492b85bf1"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
 metafile = true
 
 [[files]]
