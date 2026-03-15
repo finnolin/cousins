@@ -1,13 +1,13 @@
 name = "Mekanism: Ponders"
-filename = "mekanism_ponders-1.0.1-1.20.1.jar"
+filename = "mekanism_ponders-1.0.2-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yriKr10n/versions/rKhmVobe/mekanism_ponders-1.0.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/yriKr10n/versions/X36gBKXc/mekanism_ponders-1.0.2-1.20.1.jar"
 hash-format = "sha512"
-hash = "382dd1b747a39950a9cbed3076d8250fb45d88b86589fb6728a458317c99453cccc0d5c5d59da6e306201088daf9d3118af4c0eee57a3e7c942fb0a99b2e151e"
+hash = "64674630f41204585f84b1d86704c942077c04d04c5788f3e787261b17d2bf51dece636f53ac69d7520b5f113de9e5a12b1c03d5a8f30a87d2d507241d26ddfe"
 
 [update]
 [update.modrinth]
 mod-id = "yriKr10n"
-version = "rKhmVobe"
+version = "X36gBKXc"

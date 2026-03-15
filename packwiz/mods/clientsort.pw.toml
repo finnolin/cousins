@@ -1,13 +1,13 @@
 name = "Client Sort"
-filename = "clientsort-forge-2.2.0+1.20.1.jar"
+filename = "clientsort-forge-2.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/K0AkAin6/versions/M2rHECpE/clientsort-forge-2.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/x3wvZjPD/clientsort-forge-2.2.1%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "8b6ef5fb266fe85c2a80817beae70095493f1cbf05434a97fcf0b5069b151f6e590f0874e7edf9ab6bd2d816e12ff6905e8f2e71f7451b9d86a6b816ffa11477"
+hash = "1529e643e2414da6a7932af490805813c084ff42683d4478640c9a56db7bb5398664509e3c2006acf981b981402731844507caf5ec6e8e95218619fb6dbf74fc"
 
 [update]
 [update.modrinth]
 mod-id = "K0AkAin6"
-version = "M2rHECpE"
+version = "x3wvZjPD"
