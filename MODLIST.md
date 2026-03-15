@@ -31,6 +31,7 @@
 | <img src="https://cdn.modrinth.com/data/GGGjHC5t/380b0c756f02c949689cf80fd1376b8aca2fca67.png" width="32"> | Buddycards | [Modrinth](https://modrinth.com/mod/GGGjHC5t) |
 | <img src="https://cdn.modrinth.com/data/yE4MbG65/1e4a83d4b1ae8d30867dc6a0ea9bbd7c2a83dc33_96.webp" width="32"> | Concurrent Chunk Management Engine for Forge | [Modrinth](https://modrinth.com/mod/yE4MbG65) |
 | <img src="https://cdn.modrinth.com/data/m0oRwcZx/bebf0a98167f737c643abe85382a7ec14d264cbf.png" width="32"> | Camera Overhaul | [Modrinth](https://modrinth.com/mod/m0oRwcZx) |
+| <img src="https://cdn.modrinth.com/data/joEfVgkn/d7750a532cd45c9020bf4d07f304191de6e98c19_96.webp" width="32"> | Carry On | [Modrinth](https://modrinth.com/mod/joEfVgkn) |
 | <img src="https://cdn.modrinth.com/data/jawg7zT1/9db694bb9f52ba4697f2d09ab8945335585ff544_96.webp" width="32"> | Cave Dust | [Modrinth](https://modrinth.com/mod/jawg7zT1) |
 | <img src="https://cdn.modrinth.com/data/fXt291FO/c569721cae70f38b9599deae5576b74dd44188d6_96.webp" width="32"> | CC:C Bridge | [Modrinth](https://modrinth.com/mod/fXt291FO) |
 | <img src="https://cdn.modrinth.com/data/gu7yAYhd/icon.png" width="32"> | CC: Tweaked | [Modrinth](https://modrinth.com/mod/gu7yAYhd) |
@@ -58,11 +59,15 @@
 | <img src="https://cdn.modrinth.com/data/bV2crgLh/558e68cbc20d48ae09b16c52e02c3c6a37bd4755_96.webp" width="32"> | Construction Wand | [Modrinth](https://modrinth.com/mod/bV2crgLh) |
 | <img src="https://cdn.modrinth.com/data/1IjD5062/icon.png" width="32"> | Continuity | [Modrinth](https://modrinth.com/mod/1IjD5062) |
 | <img src="https://cdn.modrinth.com/data/xv94TkTM/bdb6feb3d04ca37da4ed5aa73fef062a39d8b3e5_96.webp" width="32"> | Controlling | [Modrinth](https://modrinth.com/mod/xv94TkTM) |
+| <img src="https://cdn.modrinth.com/data/UT2M39wf/17960b56556c644249686a22172eda0924f8bbe0_96.webp" width="32"> | Create: Copycats+ | [Modrinth](https://modrinth.com/mod/UT2M39wf) |
 | <img src="https://cdn.modrinth.com/data/WrpuIfhw/032925a79197e9e23be2c6a07d994b17e3363912.png" width="32"> | Corpse | [Modrinth](https://modrinth.com/mod/WrpuIfhw) |
 | <img src="https://cdn.modrinth.com/data/DMu0oBKf/e0ba8860a4352911234e3c8f6e5118ba652f5fc8_96.webp" width="32"> | Crafting Tweaks | [Modrinth](https://modrinth.com/mod/DMu0oBKf) |
 | <img src="https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp" width="32"> | Create | [Modrinth](https://modrinth.com/mod/LNytGWDc) |
 | <img src="https://cdn.modrinth.com/data/kU1G12Nn/d8d1ec226747a800ba175f70ad00a80f37047cb6_96.webp" width="32"> | Create Crafts & Additions | [Modrinth](https://modrinth.com/mod/kU1G12Nn) |
+| <img src="https://cdn.modrinth.com/data/sMvUb4Rb/b60e1330b10bd1d7b1f2c0b7337a25f73b0eb555_96.webp" width="32"> | Create Deco | [Modrinth](https://modrinth.com/mod/sMvUb4Rb) |
+| <img src="https://cdn.modrinth.com/data/hSSqdyU1/e7229e03d0795915092cdab361ee4406e0b27153_96.webp" width="32"> | Create Encased | [Modrinth](https://modrinth.com/mod/hSSqdyU1) |
 | <img src="https://cdn.modrinth.com/data/z611fdf7/100fd84c2390fd4bde548e30b9624ee1fa32c018_96.webp" width="32"> | Create Nuclear | [Modrinth](https://modrinth.com/mod/z611fdf7) |
+| <img src="https://cdn.modrinth.com/data/wPQ6GgFE/2f6c7a922eeb1b1064737e95b3ba1794b0c2c980.png" width="32"> | Create: Power Loader | [Modrinth](https://modrinth.com/mod/wPQ6GgFE) |
 | <img src="https://cdn.modrinth.com/data/Dq3STxps/10e1b3796f2fcf5b70bb77110e68b59c750310ac_96.webp" width="32"> | Create Railways Navigator | [Modrinth](https://modrinth.com/mod/Dq3STxps) |
 | <img src="https://cdn.modrinth.com/data/yGttHo06/5d27ba26f08650eb0ede6a42c620cdc34cc43d08_96.webp" width="32"> | Create: Sound of Steam | [Modrinth](https://modrinth.com/mod/yGttHo06) |
 | <img src="https://cdn.modrinth.com/data/ZzjhlDgM/efac0150d612ab52768620dd53a7e8c27ce2fb0d_96.webp" width="32"> | Create: Steam 'n' Rails | [Modrinth](https://modrinth.com/mod/ZzjhlDgM) |
@@ -140,7 +145,6 @@
 | <img src="https://cdn.modrinth.com/data/tqQpq1lt/ea185eb1300a64867f89101d4798e71a54ef6bed_96.webp" width="32"> | Mekanism Tools | [Modrinth](https://modrinth.com/mod/tqQpq1lt) |
 | <img src="https://cdn.modrinth.com/data/NRjRiSSD/a279c19f9c3574339fa90f675aa8a94f8f6cff92_96.webp" width="32"> | Memory Leak Fix | [Modrinth](https://modrinth.com/mod/NRjRiSSD) |
 | <img src="https://cdn.modrinth.com/data/codAaoxh/76ce92742fea39dadbf9a68a389b4690f10ebd52_96.webp" width="32"> | MidnightLib | [Modrinth](https://modrinth.com/mod/codAaoxh) |
-| <img src="https://cdn.modrinth.com/data/rZVE31wM/4b2bdff6222fc1b6630764355b256d02cfdb12fe.png" width="32"> | Midnight Thoughts | [Modrinth](https://modrinth.com/mod/rZVE31wM) |
 | | Mighty Mail | [CurseForge](https://www.curseforge.com/projects/902986) |
 | <img src="https://cdn.modrinth.com/data/o5fhgLeQ/ef9ca61affa94e89e03d7a28323e4102841ae2e6.png" width="32"> | Cursors Extended | [Modrinth](https://modrinth.com/mod/o5fhgLeQ) |
 | <img src="https://cdn.modrinth.com/data/qMxbM4BQ/0d6f967d3ad184dd296c62a9891e2b2b7d45f61d.png" width="32"> | Miner's Delight | [Modrinth](https://modrinth.com/mod/qMxbM4BQ) |

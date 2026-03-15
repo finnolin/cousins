@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.0.13
+
+- Remove FramedBlocks
+
+- Add Create: Copycats+
+- Add Create: Deco
+- Add Create: Encased
+
+- Update mods to their latest versions
+
+---
+
 ## v0.0.12
 
 - Pin Lithosphere to version 1.6
